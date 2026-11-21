@@ -83,11 +83,11 @@ deals:
     offer: AI Security Certification
     discount: "20% off"
     code: msec-bf20
+    ends: 2026-11-30
     url: https://www.modernsecurity.io/courses/ai-security-certification
-    source: third-party
-    source_url: https://cipherssecurity.com/cybersecurity-black-friday-deals/
-    notes: "Reported by a sponsored blog listing; not shown on the vendor's course page. Unconfirmed — check at checkout."
-    last_checked: 2026-11-16
+    source: vendor
+    notes: "Hands-on AI Security training from trainers who presented at Northsec, Defcon and Blackhat. Code msec-bf20 at checkout; offer ends Nov 30, 2026."
+    last_checked: 2026-11-21
 
   - vendor: VantagePoint
     category: certification
