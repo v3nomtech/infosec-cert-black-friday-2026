@@ -456,15 +456,18 @@ deals:
     last_year: "25% off red team courses (code BF25)"
     last_checked: 2026-11-16
 
-  - vendor: 8kSec
+  - vendor: 8kSec Academy
     category: training
-    offer: Mobile, AI and ARM exploitation courses
-    discount: "TBA"
+    certs: [CAISR, CMSE, OMSE, CISR, CASR]
+    offer: On-demand mobile and AI security training (five certification tracks) with hands-on labs
+    discount: "15% off all on-demand courses"
+    code: 8KSECBLACKFRIDAY
+    starts: 2026-11-20
+    ends: 2026-12-04
     url: https://academy.8ksec.io/
-    source: third-party
-    expected: true
+    source: vendor
     last_year: "15% off all courses with code blackfriday15 (ended Dec 10, 2025)"
-    last_checked: 2026-11-16
+    last_checked: 2026-11-21
 
   - vendor: CyberDefenders
     category: labs
