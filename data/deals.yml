@@ -25,6 +25,18 @@ deals:
 
   # ───────────────────────── Certifications & exam vouchers ─────────────────────────
 
+  - vendor: CloudBreach
+    category: certification
+    offer: Advanced offensive Azure & AWS Security Trainings and Certifications
+    certs: [OASP, OAWSP, OASE]
+    discount: "30% off"
+    code: "BlackFriday26"
+    ends: 2026-12-07
+    url: https://cloudbreach.io/blackfriday
+    source: vendor
+    last_year: "25% off"
+    last_checked: 2026-11-21
+  
   - vendor: OffSec
     category: certification
     offer: Learn One annual subscription (one 200/300-level course + labs + 2 exam attempts)
