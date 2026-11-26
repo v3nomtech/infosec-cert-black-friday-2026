@@ -78,6 +78,7 @@
 | ✅ Live | **[TheXero Training Academy](https://training.thexero.co.uk/blackfriday)** | Wireless Operator (Wi-Fi pentesting) course — founding-member price | 67% off — $599 → $197 | _auto_ | Dec 01, 2026 | ✔️ vendor |
 | ✅ Live | **[TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/)** | Most individual courses — malware analysis, EDR internals, Windows internals, hardware hacking, detection engineering<br><sub>ℹ️ November 2026 only. Excludes live events, learning paths, bundles and subscriptions.</sub> | 40% off | `BF2026` | Nov 30, 2026 | ✔️ vendor |
 | ✅ Live | **[Wireshark Labs](https://wiresharklabs.org/)** | Hands-on Wireshark packet-analysis labs — WCA Labs (Wireshark Certified Analyst exam prep) and Ranger Lab (real-world troubleshooting and security cases)<br><sub>WCA</sub><br><sub>ℹ️ Live now. One-time purchase. Code valid until Dec 2, 08:00 UTC. Submitted by the vendor.</sub> | WCA Labs $199.99 → $99.99 · Ranger Lab $249.99 → $179.99 | `PACKETFRIDAY` | Dec 01, 2026 | ✔️ vendor |
+| ✅ Live | **[Android Applications Hacking for Bug Bounty and Pentesting](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY2026)** | Learn to hack Android applications using the cutting edge pentesting techniques and tools.<br><sub>ℹ️ Live now. One-time purchase. Code valid until Dec 1, 18:45 UTC. Submitted by the vendor.</sub> | 80% off - $49.99 → $9.99 | `BLACKFRIDAY2026` | Dec 01, 2026 | ✔️ vendor |
 
 ## 🧪 Labs & Platforms
 
