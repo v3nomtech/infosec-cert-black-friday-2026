@@ -20,7 +20,7 @@
 > Prices, codes and dates change without notice. **Always confirm on the vendor's checkout page before you pay.** Spot something wrong or a new deal? [Open an issue](../../issues/new/choose) or send a PR.
 
 <!-- DEALS:START -->
-**33 live** · **1 upcoming** · **14 not announced yet** · 0 expired — _statuses auto-refreshed Nov 25, 2026_
+**33 live** · **1 upcoming** · **14 not announced yet** · 0 expired — _statuses auto-refreshed Nov 26, 2026_
 
 ## ⭐ Featured deals
 
