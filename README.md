@@ -20,7 +20,7 @@
 > Prices, codes and dates change without notice. **Always confirm on the vendor's checkout page before you pay.** Spot something wrong or a new deal? [Open an issue](../../issues/new/choose) or send a PR.
 
 <!-- DEALS:START -->
-**34 live** · **0 upcoming** · **14 not announced yet** · 0 expired — _statuses auto-refreshed Nov 27, 2026_
+**35 live** · **0 upcoming** · **14 not announced yet** · 0 expired — _statuses auto-refreshed Nov 27, 2026_
 
 ## ⭐ Featured deals
 
@@ -83,6 +83,7 @@
 
 | Status | Vendor | Offer | Discount | Code | Ends | Verified |
 |---|---|---|---|---|---|---|
+| ✅ Live | **[AppSecEngineer](https://www.appsecengineer.com/individuals/pricing)** | Hands-on AI security labs (securing AI agents & LLM apps) plus AppSec, cloud security, Kubernetes and threat modeling training<br><sub>ℹ️ Banner on appsecengineer.com. End date not published (community lists say Nov 30).</sub> | 40% off Pro Plus annual plans and Bootcamps (Pro Plus $499 → ~$299/year) | `LEVELUP40` | — | ✔️ vendor |
 | ✅ Live | **[CyberWarFare Labs](https://cyberwarfare.live/cwl-cyber-infinity)** | CWL Cyber Infinity — yearly access (incl. CRTA & AI-RTA) or monthly access<br><sub>CRTA, AI-RTA</sub><br><sub>ℹ️ INFINITY49 = yearly, INFINITY5 = monthly. End date not published.</sub> | Yearly $99 → $49 · Monthly $9 → $5 | `INFINITY49 / INFINITY5` | — | ✔️ vendor |
 | ✅ Live | **[GenAI Security Lab](https://genaisecuritylab.com/pricing)** | 200+ hands-on AI security labs against deliberately vulnerable LLM, RAG, agent and MCP apps<br><sub>ℹ️ Auto-applied, ends Nov 30. Discounts don't stack: you get the larger one. 7-day money-back guarantee.</sub> | 40% off the 4-Month Pass and the first year of the yearly plan | _auto_ | Nov 30, 2026 | ✔️ vendor |
 | ✅ Live | **[LabEx](https://labex.io/pricing)** | LabEx Pro (Linux, cybersecurity, DevOps hands-on labs)<br><sub>ℹ️ 2026BF30 = 1-year plan, 2026BF50 = 2-year plan. End date not published (community lists say Dec 7).</sub> | Pro 1 yr $99 → $69.90 (30% off) · Pro 2 yr $199 → $99.90 (50% off) | `2026BF30 / 2026BF50` | — | ✔️ vendor |
