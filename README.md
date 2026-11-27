@@ -20,7 +20,7 @@
 > Prices, codes and dates change without notice. **Always confirm on the vendor's checkout page before you pay.** Spot something wrong or a new deal? [Open an issue](../../issues/new/choose) or send a PR.
 
 <!-- DEALS:START -->
-**33 live** · **1 upcoming** · **14 not announced yet** · 0 expired — _statuses auto-refreshed Nov 26, 2026_
+**34 live** · **0 upcoming** · **14 not announced yet** · 0 expired — _statuses auto-refreshed Nov 27, 2026_
 
 ## ⭐ Featured deals
 
@@ -54,8 +54,8 @@
 | ✅ Live | **[TCM Security](https://tcm-sec.com/black-friday-deals/)** | All 13 certifications, learning paths (3 stacking certs + extra courses), instructor-led live training and Academy memberships<br><sub>PJPT, PNPT, PORP, PWPA, PWPP, PWPE, PAPA, PHDA, PSAA, PSAP, PMPA, PIPA, PMRP</sub><br><sub>ℹ️ Auto-applied. Ends Nov 30, 11:59 PM ET. Academy discount is first payment only; renewals bill at regular price. Learning paths include a monthly mentorship group. Can't be combined with other offers. Submitted by the vendor.</sub> | 20% off certs, learning paths & live training · 50% off first Academy payment | _auto_ | Nov 30, 2026 | ✔️ vendor |
 | ✅ Live | **[The SecOps Group (PentestingExams)](https://pentestingexams.com/offer)** | All pentesting certification exams<br><sub>CAPen, CNPen, C-APIPen, CAPenX, CRTeamerX, C-ADPenX, CCPenX-AWS</sub><br><sub>ℹ️ End date not published.</sub> | 90% off — $330 exams → $33, $528 exams → $53 | `BF-90` | — | ✔️ vendor |
 | ✅ Live | **[VantagePoint](https://vantagepoint.enciphers.com/)** | All hacking labs and certifications<br><sub>ℹ️ No code needed. Vendor doesn't publish an end date (blogs report Nov 30 or Dec 15).</sub> | 70% off | _auto_ | — | ✔️ vendor |
+| ✅ Live | **[White Knight Labs](https://training.whiteknightlabs.com/)** | Certification courses, individual Academy classes, 6- and 12-month Academy passes<br><sub>ARTOC, ODPC, OAOTC, ELPT</sub><br><sub>ℹ️ Month-to-month Academy not included. Vendor banner also promises deeper discounts on course bundles and live-training upgrades.</sub> | 50% off | `WKLBLACKFRIDAY26` | Dec 18, 2026 | ✔️ vendor |
 | ✅ Live | **[Zero-Point Security](https://www.zeropointsecurity.co.uk/courses)** | Get up to 40% off.<br><sub>CRTO, CRTL</sub> | 30% - 40% off | `auto` | Dec 07, 2026 | ✔️ vendor |
-| ⏳ Starts Nov 27 | **[White Knight Labs](https://training.whiteknightlabs.com/)** | Certification courses, individual Academy classes, 6- and 12-month Academy passes<br><sub>ARTOC, ODPC, OAOTC, ELPT</sub><br><sub>ℹ️ Month-to-month Academy not included. Vendor banner also promises deeper discounts on course bundles and live-training upgrades.</sub> | 50% off | `WKLBLACKFRIDAY26` | Dec 18, 2026 | ✔️ vendor |
 
 ## 📚 Training & Courses
 
