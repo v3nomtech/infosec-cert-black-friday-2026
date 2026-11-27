@@ -20,7 +20,7 @@
 > Prices, codes and dates change without notice. **Always confirm on the vendor's checkout page before you pay.** Spot something wrong or a new deal? [Open an issue](../../issues/new/choose) or send a PR.
 
 <!-- DEALS:START -->
-**36 live** · **0 upcoming** · **14 not announced yet** · 0 expired — _statuses auto-refreshed Nov 27, 2026_
+**37 live** · **0 upcoming** · **14 not announced yet** · 0 expired — _statuses auto-refreshed Nov 27, 2026_
 
 ## ⭐ Featured deals
 
@@ -32,16 +32,17 @@
 
 ### ⏰ Ending next
 
+- **[CYBRIXEN](https://cybrixen.com)** · 70% off — code `BLACKFRIDAY70` · ends Nov 27, 2026
 - **[Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/)** · 15% off every cert (e.g. CDP $899 → $764.15), up to $600 off bundles · ends Nov 30, 2026
 - **[Modern Security](https://www.modernsecurity.io/courses/ai-security-certification)** · 20% off — code `msec-bf20` · ends Nov 30, 2026
 - **[SecurityPaths Academy](https://academy.securitypaths.com/courses)** · 25% off — code `blackfriday26` · ends Nov 30, 2026
 - **[TCM Security](https://tcm-sec.com/black-friday-deals/)** · 20% off certs, learning paths & live training · 50% off first Academy payment · ends Nov 30, 2026
-- **[TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/)** · 40% off — code `BF2026` · ends Nov 30, 2026
 
 ## 🎓 Certifications & Exam Vouchers
 
 | Status | Vendor | Offer | Discount | Code | Ends | Verified |
 |---|---|---|---|---|---|---|
+| 🔥 Ending soon | **[CYBRIXEN](https://cybrixen.com)** | All CYBRIXEN cybersecurity certifications<br><sub>CCSA, CCCR, CCCD</sub><br><sub>ℹ️ Black Friday 2026 offer. Check official website for eligibility and terms.</sub> | 70% off | `BLACKFRIDAY70` | Nov 27, 2026 | ✔️ vendor |
 | ✅ Live | **[CloudBreach](https://cloudbreach.io/blackfriday)** | Advanced offensive Azure & AWS Security Trainings and Certifications<br><sub>OASP, OAWSP, OASE</sub> | 30% off | `BlackFriday26` | Dec 07, 2026 | ✔️ vendor |
 | ✅ Live | **[CyberWarFare Labs](https://cyberwarfare.live/bundles)** | 40+ red/blue/cloud/AI-security certification courses + themed bundles<br><sub>CRTA, AI-RTA, MCRTA, CRTS v2, CARTS, AzRTS, GCRTS, CCDA, CTIA</sub><br><sub>ℹ️ No code needed for bundles/courses. Extra 10% off carts ≥ $99 and 20% off ≥ $149 (code required). Premium Membership $1,999 → $1,499, All Access $1,799 → $999 (code given at checkout). End date not published.</sub> | Up to 91% off — most courses $9, cloud red team $49, bundles $29–$149 | _auto_ | — | ✔️ vendor |
 | ✅ Live | **[GIAC](https://www.giac.org/#specials)** | Applied Knowledge certifications, certification attempt extensions, practice exams and demo questions<br><sub>ℹ️ Announced in the GIAC newsletter and on giac.org. Buy from your GIAC account and enter the code at checkout; it can be used multiple times. Not valid on prior purchases or voucher purchases.</sub> | 30% off | `30Cyber26` | Dec 01, 2026 | ✔️ vendor |
