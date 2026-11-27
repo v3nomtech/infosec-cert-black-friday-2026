@@ -405,6 +405,16 @@ deals:
     notes: "2026BF30 = 1-year plan, 2026BF50 = 2-year plan. End date not published (community lists say Dec 7)."
     last_checked: 2026-11-16
 
+  - vendor: AppSecEngineer
+    category: labs
+    offer: Hands-on AI security labs (securing AI agents & LLM apps) plus AppSec, cloud security, Kubernetes and threat modeling training
+    discount: "40% off Pro Plus annual plans and Bootcamps (Pro Plus $499 → ~$299/year)"
+    code: LEVELUP40
+    url: https://www.appsecengineer.com/individuals/pricing
+    source: vendor
+    notes: "Banner on appsecengineer.com. End date not published (community lists say Nov 30)."
+    last_checked: 2026-11-25
+
   # ───────────────── Watchlist — not announced yet ─────────────────
 
   - vendor: INE Security
