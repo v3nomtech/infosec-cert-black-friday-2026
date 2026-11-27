@@ -20,7 +20,7 @@
 > Prices, codes and dates change without notice. **Always confirm on the vendor's checkout page before you pay.** Spot something wrong or a new deal? [Open an issue](../../issues/new/choose) or send a PR.
 
 <!-- DEALS:START -->
-**35 live** · **0 upcoming** · **14 not announced yet** · 0 expired — _statuses auto-refreshed Nov 27, 2026_
+**36 live** · **0 upcoming** · **14 not announced yet** · 0 expired — _statuses auto-refreshed Nov 27, 2026_
 
 ## ⭐ Featured deals
 
@@ -75,10 +75,10 @@
 | ✅ Live | **[Practical Networking](https://classes.pracnet.net/courses/practical-tls)** | Practical TLS course<br><sub>ℹ️ Not mentioned on the vendor site; course page and checkout show $297 before a code is applied. Unconfirmed — check at checkout (community lists say ends Dec 6).</sub> | 83% off — $297 → $50 | `BF2026TLS` | — | ⚠️ unconfirmed |
 | ✅ Live | **[pwn.guide](https://pwn.guide/pricing)** | Every plan incl. Lifetime — discount stays on renewals<br><sub>ℹ️ Card checkout only.</sub> | 20% off forever | `BLKFRI20` | Dec 05, 2026 | ✔️ vendor |
 | ✅ Live | **[Red Team LLC (redteam.vip)](https://redteam.vip/courses/)** | Early-access pricing on 10 full-spectrum red team courses (physical entry, RFID & access control, social engineering, recon, reporting)<br><sub>ℹ️ Standing early-access price, not a Black Friday sale. Early buyers get every future video for their courses at no extra cost. Legal, Ethical & Regulatory Foundations goes from $99 to $199 on Dec 1; other courses move to full price as their videos are finished. Submitted by the course author.</sub> | $99 per course (full price $199–$399) · all 10 courses $799 | _auto_ | — | ✔️ vendor |
+| ✅ Live | **[The Cyber Instructor](https://learn.thecyberinstructor.com/)** | Sitewide sale incl. the 6-week live AI for Cybersecurity bootcamp (AI red teaming, securing LLM apps, agents, governance) and the self-paced TCI Pro subscription<br><sub>ℹ️ Bootcamp price holds through Dec 4. Also covers 1:1 career sessions.</sub> | 30% off (AI for Cybersecurity bootcamp $2,099 → $1,469) | `BF30` | Nov 30, 2026 | ✔️ vendor |
 | ✅ Live | **[TheXero Training Academy](https://training.thexero.co.uk/blackfriday)** | Wireless Operator (Wi-Fi pentesting) course — founding-member price | 67% off — $599 → $197 | _auto_ | Dec 01, 2026 | ✔️ vendor |
 | ✅ Live | **[TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/)** | Most individual courses — malware analysis, EDR internals, Windows internals, hardware hacking, detection engineering<br><sub>ℹ️ November 2026 only. Excludes live events, learning paths, bundles and subscriptions.</sub> | 40% off | `BF2026` | Nov 30, 2026 | ✔️ vendor |
 | ✅ Live | **[Wireshark Labs](https://wiresharklabs.org/)** | Hands-on Wireshark packet-analysis labs — WCA Labs (Wireshark Certified Analyst exam prep) and Ranger Lab (real-world troubleshooting and security cases)<br><sub>WCA</sub><br><sub>ℹ️ Live now. One-time purchase. Code valid until Dec 2, 08:00 UTC. Submitted by the vendor.</sub> | WCA Labs $199.99 → $99.99 · Ranger Lab $249.99 → $179.99 | `PACKETFRIDAY` | Dec 01, 2026 | ✔️ vendor |
-| ✅ Live | **[Android Applications Hacking for Bug Bounty and Pentesting](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY2026)** | Learn to hack Android applications using the cutting edge pentesting techniques and tools.<br><sub>ℹ️ Live now. One-time purchase. Code valid until Dec 1, 18:45 UTC. Submitted by the vendor.</sub> | 80% off - $49.99 → $9.99 | `BLACKFRIDAY2026` | Dec 01, 2026 | ✔️ vendor |
 
 ## 🧪 Labs & Platforms
 

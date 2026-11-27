@@ -492,6 +492,20 @@
     "status": "✅ Live"
   },
   {
+    "vendor": "The Cyber Instructor",
+    "category": "training",
+    "offer": "Sitewide sale incl. the 6-week live AI for Cybersecurity bootcamp (AI red teaming, securing LLM apps, agents, governance) and the self-paced TCI Pro subscription",
+    "discount": "30% off (AI for Cybersecurity bootcamp $2,099 → $1,469)",
+    "code": "BF30",
+    "starts": "2026-11-23",
+    "ends": "2026-11-30",
+    "url": "https://learn.thecyberinstructor.com/",
+    "source": "vendor",
+    "notes": "Bootcamp price holds through Dec 4. Also covers 1:1 career sessions.",
+    "last_checked": "2026-11-27",
+    "status": "✅ Live"
+  },
+  {
     "vendor": "GenAI Security Lab",
     "category": "labs",
     "offer": "200+ hands-on AI security labs against deliberately vulnerable LLM, RAG, agent and MCP apps",
