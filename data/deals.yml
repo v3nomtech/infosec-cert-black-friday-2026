@@ -604,3 +604,16 @@ deals:
     ends: 2026-12-01
     last_year: "20% off Premium training bundle"
     last_checked: 2026-11-16
+
+  - vendor: CYBRIXEN
+    category: certification
+    offer: All CYBRIXEN cybersecurity certifications
+    certs: [CCSA, CCCR, CCCD]
+    discount: "70% off"
+    code: "BLACKFRIDAY70"
+    starts: 2026-11-25
+    ends: 2026-11-27
+    url: https://cybrixen.com
+    source: vendor
+    notes: "Black Friday 2026 offer. Check official website for eligibility and terms."
+    last_checked: 2026-11-26
