@@ -89,7 +89,7 @@
     "last_year": "15% off certs, $500 off bundles (ended Dec 6, 2025)",
     "notes": "Auto-applied. Ends Nov 30, midnight EST. Buy now and start the course whenever you want.",
     "last_checked": "2026-11-16",
-    "status": "✅ Live"
+    "status": "🔥 Ending soon"
   },
   {
     "vendor": "White Knight Labs",
@@ -123,7 +123,7 @@
     "source": "vendor",
     "notes": "Hands-on AI Security training from trainers who presented at Northsec, Defcon and Blackhat. Code msec-bf20 at checkout; offer ends Nov 30, 2026.",
     "last_checked": "2026-11-21",
-    "status": "✅ Live"
+    "status": "🔥 Ending soon"
   },
   {
     "vendor": "VantagePoint",
@@ -226,7 +226,7 @@
     "source": "vendor",
     "notes": "Formerly WiFiChallenge Academy. Code auto-applied at checkout. Submitted by a course instructor.",
     "last_checked": "2026-11-19",
-    "status": "✅ Live"
+    "status": "🔥 Ending soon"
   },
   {
     "vendor": "GIAC",
@@ -270,7 +270,7 @@
     "last_year": "20% off all certifications & live training (no code), 50% off first Academy payment, up to $1,000 off cert bundles (ended Dec 1, 2025)",
     "notes": "Auto-applied. Ends Nov 30, 11:59 PM ET. Academy discount is first payment only; renewals bill at regular price. Learning paths include a monthly mentorship group. Can't be combined with other offers. Submitted by the vendor.",
     "last_checked": "2026-11-23",
-    "status": "✅ Live"
+    "status": "🔥 Ending soon"
   },
   {
     "vendor": "Zero-Point Security",
@@ -312,7 +312,7 @@
     "source": "vendor",
     "notes": "November 2026 only. Excludes live events, learning paths, bundles and subscriptions.",
     "last_checked": "2026-11-16",
-    "status": "✅ Live"
+    "status": "🔥 Ending soon"
   },
   {
     "vendor": "TheXero Training Academy",
@@ -349,7 +349,7 @@
     "source": "vendor",
     "notes": "Price returns to $2,197 on Dec 1. Analyst II track is also $997 until Nov 30 ($1,197 from Dec 1).",
     "last_checked": "2026-11-16",
-    "status": "✅ Live"
+    "status": "🔥 Ending soon"
   },
   {
     "vendor": "Just Hacking Training",
@@ -361,7 +361,7 @@
     "url": "https://www.justhacking.com/deals/",
     "source": "vendor",
     "last_checked": "2026-11-16",
-    "status": "✅ Live"
+    "status": "🔥 Ending soon"
   },
   {
     "vendor": "MalDev Academy",
@@ -374,7 +374,7 @@
     "source": "vendor",
     "notes": "Sale is live on maldevacademy.com. The code and end date come from a community list (the site blocks automated checks) — confirm at checkout.",
     "last_checked": "2026-11-16",
-    "status": "✅ Live"
+    "status": "🔥 Ending soon"
   },
   {
     "vendor": "OnlySecurity",
@@ -388,7 +388,7 @@
     "source": "vendor",
     "notes": "Auto-applied. Nov 23 00:00 – Nov 30 23:59 UK time. Courses already on sale keep their sale price. Excludes bundles, team plans, private training, trainer passes, plan changes, renewals.",
     "last_checked": "2026-11-16",
-    "status": "✅ Live"
+    "status": "🔥 Ending soon"
   },
   {
     "vendor": "pwn.guide",
@@ -477,7 +477,7 @@
     "source": "vendor",
     "notes": "7-day refund guarantee. Submitted by the course author.",
     "last_checked": "2026-11-23",
-    "status": "✅ Live"
+    "status": "🔥 Ending soon"
   },
   {
     "vendor": "Red Team LLC (redteam.vip)",
@@ -503,7 +503,7 @@
     "source": "vendor",
     "notes": "Bootcamp price holds through Dec 4. Also covers 1:1 career sessions.",
     "last_checked": "2026-11-27",
-    "status": "✅ Live"
+    "status": "🔥 Ending soon"
   },
   {
     "vendor": "GenAI Security Lab",
@@ -520,7 +520,7 @@
     "logo_dark": "assets/logos/genai-security-lab-dark.png",
     "notes": "Auto-applied, ends Nov 30. Discounts don't stack: you get the larger one. 7-day money-back guarantee.",
     "last_checked": "2026-11-24",
-    "status": "✅ Live"
+    "status": "🔥 Ending soon"
   },
   {
     "vendor": "LabEx",
@@ -832,6 +832,6 @@
     "source": "vendor",
     "notes": "Black Friday 2026 offer. Check official website for eligibility and terms.",
     "last_checked": "2026-11-26",
-    "status": "🔥 Ending soon"
+    "status": "❌ Expired"
   }
 ]
